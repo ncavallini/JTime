@@ -34,4 +34,4 @@ public class MWE {
 ```
 (On my PC that computation took about 20 seconds).
 ## Documentation
-The code is self-documenting (Javadoc annotations), however, you may want to read the documentation in a more user-friendly way. If this is the case, just open the `index.html` file in the `/doc` folder or simply [click here](https://www.example.com).
+The code is self-documenting (Javadoc annotations), however, you may want to read the documentation in a more user-friendly way. If this is the case, just open the `index.html` file in the `/doc` folder or simply [click here](https://ncavallini.github.io/JTime/).
